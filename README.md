@@ -7,4 +7,11 @@ Module 14 Challenge
 - JavaScript file: ![image](https://github.com/nickpalmer2012/belly-button-challenge/assets/128104435/6af7eae6-31e6-4e1f-81f2-fa97d75e94cf)
 - html: ![image](https://github.com/nickpalmer2012/belly-button-challenge/assets/128104435/70a09f37-a79c-4874-94e6-d1cbf49283c2)
 
+### Creating bar chart 
+- location in my code: ![image](https://github.com/nickpalmer2012/belly-button-challenge/assets/128104435/519fc495-45e0-4ee5-9f5e-36f5c3d4c1cb)
 
+
+### Creating bubble chart
+- documentation on bubble charts in plotly:
+- https://plotly.com/javascript/bubble-charts/
+- location in my code: 
