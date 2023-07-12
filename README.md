@@ -1,6 +1,6 @@
 # belly-button-challenge
 Module 14 Challenge
-##Github pages link: https://nickpalmer2012.github.io
+## Github pages link: https://nickpalmer2012.github.io
 ### How to set up dropdown menu to select the different sample IDs within the dataset
 - ChatGPT helped me with the syntax to append all of the IDs within the "names" object to the dropdown menu:
 - ![image](https://github.com/nickpalmer2012/belly-button-challenge/assets/128104435/cebb9217-7b4e-4661-af37-512b2994b5f2)
