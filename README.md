@@ -14,4 +14,12 @@ Module 14 Challenge
 ### Creating bubble chart
 - documentation on bubble charts in plotly:
 - https://plotly.com/javascript/bubble-charts/
-- location in my code: 
+- location in my code:
+
+### Adding Demographic Data to Demographic Info box
+- How to use Object methods in JS: https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript
+- I used the "entries" mehtod to retreive the keys and values as pairs to append to the demographic box.
+- location in my code: ![image](https://github.com/nickpalmer2012/belly-button-challenge/assets/128104435/bb71ab97-726b-454e-85a1-c800600ac171)
+- I used the forEach method from the dropdown box to append each demographic item one after the other from top to bottom. 
+
+
